@@ -1,0 +1,15 @@
+{
+  "name": "notebook_api",
+  "version": "1.0.0",
+  "description": "communicate with the unofficial  API",
+  "main": "index.js",
+  "author": "djo",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.2",
+    "http2-wrapper": "^2.0.3",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
